@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+<Key Id="mes_potion_vampire_small_1">生命偷取</Key>
+<Key Id="mes_potion_speed_small_1">速度 +1</Key>
+<Key Id="mes_potion_mana_small_1">魔法恢复 +5</Key>
+<Key Id="mes_potion_heal_small_1">生命恢复</Key>
+<Key Id="mes_potion_haste_small_1">攻击速度 +0.1</Key>
+<Key Id="mes_potion_defense_small_1">伤害减免 +20%</Key>
+<Key Id="mes_potion_damage_small_1">伤害增加 +25%</Key>
+<Key Id="mes_potion_crit_small_1">暴击几率 +25%</Key>
+
+<Key Id="mes_potion_crit_medium_1">暴击几率 +35%</Key>
+<Key Id="mes_potion_damage_medium_1">伤害增加 +50%</Key>
+<Key Id="mes_potion_defense_medium_1">伤害减免 +30%</Key>
+<Key Id="mes_potion_haste_medium_1">攻击速度 +0.15</Key>
+<Key Id="mes_potion_heal_medium_1">生命恢复</Key>
+<Key Id="mes_potion_mana_medium_1">魔法恢复 +10</Key>
+<Key Id="mes_potion_speed_medium_1">速度 +1.5</Key>
+<Key Id="mes_potion_vampire_medium_1">生命偷取</Key>
+
+<Key Id="mes_lalka_voodoo_1">巫毒</Key>
+<Key Id="mes_potion_crit_great_1">暴击几率 +50%</Key>
+<Key Id="mes_potion_damage_great_1">伤害增加 +100%</Key>
+<Key Id="mes_potion_defense_great_1">伤害减免 +50%</Key>
+<Key Id="mes_potion_drop_heal_1">治疗所有人</Key>
+<Key Id="mes_potion_god_1">威力药水</Key>
+<Key Id="mes_potion_haste_great_1">攻击速度 +0.2</Key>
+<Key Id="mes_potion_heal_great_1">生命恢复</Key>
+<Key Id="mes_potion_immune_1">无敌</Key>
+<Key Id="mes_potion_mana_great_1">魔法恢复 +15</Key>
+<Key Id="mes_potion_speed_great_1">速度 +2</Key>
+<Key Id="mes_potion_vampire_great_1">生命偷取</Key>
+
+<Key Id="mes_kapliczka_many_1">魔法恢复 +15</Key>
+<Key Id="mes_kapliczka_obrony_1">伤害减免 +30%</Key>
+<Key Id="mes_kapliczka_speed_1">速度 +1.5</Key>
+<Key Id="mes_kapliczka_zycia_1">生命</Key>
+<Key Id="mes_kpliczka_obrazen_1">伤害增加 +50%</Key>
+
+<Key Id="mes_boss_waluta">黑暗水晶</Key>
+<Key Id="mes_armor_1">护甲 +10</Key>
+<Key Id="mes_armor_2">护甲 +20</Key>
+</Languages>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+<Key Id="s_gold">金钱</Key>
+<Key Id="s_energy">魔法</Key>
+<Key Id="s_hp">生命</Key>
+<Key Id="s_keys">钥匙</Key>
+<Key Id="s_immune">免疫</Key>
+<Key Id="s_unik">闪避</Key>
+<Key Id="s_critical">暴击</Key>
+</Languages>

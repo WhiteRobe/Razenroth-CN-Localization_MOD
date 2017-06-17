@@ -1,0 +1,2 @@
+将文件夹拷贝到Razenroth—Razenroth_Data—StreamingAssets—Languages 目录下
+进入游戏-在option-languages  选择Chinese

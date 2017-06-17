@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+    <!--gui.xml-->
+	<Key Id="g_sta_czasy_gry_dzrewiec">使用树妖时间</Key>
+	<Key Id="g_sta_zniszczone_el_otoczneia">破坏环境物件总数</Key>
+	<Key Id="g_sta_otwartych_skrzynek">打开箱子总数</Key>
+	<Key Id="g_sta_smierc_drzewiec">树妖</Key>
+	<Key Id="g_ng_wym_drzewiec">地狱模式中通关</Key>
+	
+	<Key Id="g_dziad_gra_ty_tree_1">即使是大地之母也曾派守卫来帮助我，谢谢你</Key>
+
+	<!--****************************************************************************************-->
+	
+	<!--items.xml-->
+	<Key Id="items_pocisk_maly_tree_1_n_name">飓风弹</Key>
+	<Key Id="items_pocisk_maly_tree_1_n_description"></Key>
+	<Key Id="items_pocisk_duzy_tree_1_n_name">毒气弹</Key>
+	<Key Id="items_pocisk_duzy_tree_1_n_description"></Key>
+  
+	<Key Id="items_skil_tree_1_n_name">瘟疫</Key>
+	<Key Id="items_skil_tree_1_n_description">你的攻击可以施法有毒物质</Key>
+  
+	<Key Id="items_glowa_mumia_name">木乃伊头</Key>
+	<Key Id="items_bglowa_mumia_description"></Key>
+	<Key Id="items_naramy_mumia_name">木乃伊护肩</Key>
+	<Key Id="items_naramy_mumia_description"></Key>
+	<Key Id="items_peleryna_mumia_name">木乃伊斗篷</Key>
+	<Key Id="items_peleryna_mumia_description"></Key>
+  
+	<Key Id="items_glowa_demona_name">噩梦头盔</Key>
+	<Key Id="items_glowa_demona_description"></Key>	
+	<Key Id="items_naramy_demona_name">噩梦护肩</Key>
+	<Key Id="items_naramy_demona_description"></Key>	
+	<Key Id="items_peleryna_demona_name">噩梦斗篷</Key>
+    <Key Id="items_peleryna_demona_description"></Key>
+  
+	<Key Id="items_peleryna_swiatla_name">光芒斗篷</Key>
+    <Key Id="items_peleryna_swiatla_description"></Key>
+	<Key Id="items_glowa_swiatla_name">光芒头巾</Key>
+    <Key Id="items_glowa_swiatla_description"></Key>
+
+		<!--pets-->
+	<Key Id="items_pet_bomba_nazwa">小炸弹</Key>
+	<Key Id="items_pet_bomba_Opis">爆炸摧毁你的敌人</Key>
+	<Key Id="items_pet_skrzynka_nazwa">金箱魔</Key>
+	<Key Id="items_pet_skrzynka_Opis">双倍收集金钱和钥匙</Key>
+	<Key Id="items_pet_smok_nazwa">火龙</Key>
+	<Key Id="items_pet_smok_Opis">用火球攻击敌人</Key>
+	<Key Id="items_pet_kosmita_nazwa">幽浮</Key>
+	<Key Id="items_pet_kosmita_Opis">用激光攻击敌人</Key>
+	<Key Id="items_pet_goblin_nazwa">哥布林工兵</Key>
+	<Key Id="items_pet_goblin_Opis">用炸药炸伤敌人</Key>
+	<Key Id="items_pet_czaszka_nazwa">恐怖头骨</Key>
+	<Key Id="items_pet_czaszka_Opis">让你敌人恐惧</Key>
+	<Key Id="items_pet_golem_nazwa">石傀儡</Key>
+	<Key Id="items_pet_golem_Opis">召唤落石攻击敌人</Key>
+  
+	<Key Id="items_pocisk_klaser_nazwa">镭射枪</Key>
+	<Key Id="items_pocisk_klaser_Opis">快速而有效的武器，产于一个遥远的星系</Key>
+	
+	<!--*****************************************************************************************-->
+	
+	<!--stat.xml-->
+	<Key Id="sta_postac_drzewiec_nazwa">树妖</Key>
+	<Key Id="sta_postac_drzewiec_opis">解锁树妖</Key>
+	
+	<Key Id="sta_kup_przed_20_nazwa">老顾客</Key>
+	<Key Id="sta_kup_przed_20_opis">商人处购买20个物品(可累积)</Key>
+	<Key Id="sta_kup_przed_50_nazwa">购物狂</Key>
+	<Key Id="sta_kup_przed_50_opis">商人处购买50个物品(可累积)</Key>
+	
+	<Key Id="sta_zniszcz_el_50_nazwa">流氓</Key>
+	<Key Id="sta_zniszcz_el_50_opis">破坏50个环境物件(可累积)</Key>
+	<Key Id="sta_zniszcz_el_100_nazwa">破坏者</Key>
+	<Key Id="sta_zniszcz_el_100_opis">破坏100个环境物件(可累积)</Key>
+	<Key Id="sta_zniszcz_el_500_nazwa">破坏之王</Key>
+	<Key Id="sta_zniszcz_el_500_opis">破坏500个环境物件(可累积)</Key>
+	
+	<Key Id="sta_zbi_zl_200_nazwa">小康</Key>
+	<Key Id="sta_zbi_zl_200_opis">收集200金币(可累积)</Key>	
+	<Key Id="sta_zbi_zl_500_nazwa">土豪</Key>
+	<Key Id="sta_zbi_zl_500_opis">收集1000金币(可累积)</Key>	
+	<Key Id="sta_zbi_zl_1000_nazwa">穷的省下钱</Key>
+	<Key Id="sta_zbi_zl_1000_opis">收集500金币(可累积)</Key>
+	
+	<Key Id="sta_skrzynki_5_nazwa">锁匠 - level 1</Key>
+	<Key Id="sta_skrzynki_5_opis">打开5个箱子(可累积)</Key>
+	
+	<Key Id="sta_skrzynki_15_nazwa">锁匠 - level 2</Key>
+	<Key Id="sta_skrzynki_15_opis">打开15个箱子(可累积)</Key>
+	
+	<Key Id="sta_skrzynki_30_nazwa">锁匠 - level 3</Key>
+	<Key Id="sta_skrzynki_30_opis">打开30个箱子(可累积)</Key>
+	
+	
+	<Key Id="sta_alt_tox_nazwa">剧毒之石</Key>
+	<Key Id="sta_alt_tox_opis">当你攻击或者杀死一怪物时，有几率施法剧毒新星</Key>
+	
+	<Key Id="sta_alt_rosl_nazwa">暴风之石</Key>
+	<Key Id="sta_alt_rosl_opis">在你身旁制造致命的狂风</Key>
+	
+</Languages>

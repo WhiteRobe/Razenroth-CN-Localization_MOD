@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+    <!--Bosowie nazwy-->
+	<Key Id="Mieso">肉山</Key>
+	<Key Id="Gruu">咕噜</Key>
+	<Key Id="Cien">幽魂</Key>
+	<Key Id="Roslina">杀人花</Key>
+	
+	 <!--achievementy-->
+	<Key Id="sta_bos_mieso_nazwa">肉山</Key>
+	<Key Id="sta_bos_mieso_opis">杀死肉山</Key>
+	
+	<Key Id="sta_bos_gruu_nazwa">咕噜</Key>
+	<Key Id="sta_bos_gruu_opis">杀死咕噜</Key>
+	
+	<Key Id="sta_bos_roslina_nazwa">植物杀手</Key>
+	<Key Id="sta_bos_roslina_opis">杀死杀人花</Key>
+	
+	<Key Id="sta_bos_cien_nazwa">幽魂</Key>
+	<Key Id="sta_bos_cien_opis">杀死幽魂</Key>
+	
+	
+	<Key Id="sopt_cursor_opis">选择光标</Key>
+	<Key Id="sopt_gra_opis">游戏光标</Key>
+	<Key Id="sopt_interface_opis">界面光标</Key>
+	
+	
+	
+	<!--rankingi-->
+	<Key Id="scr_but_ranks">排行榜</Key>
+	<Key Id="scr_wyb_tab_rank">选择排行榜</Key>
+	
+	<Key Id="scr_togle_przyjaciele">好友</Key>
+	<Key Id="scr_pozycja_gracza">排名</Key>
+	<Key Id="scr_player_name">玩家</Key>
+	
+	<Key Id="scr_punkty">时间</Key>
+	<Key Id="scr_rank_normal">排行榜 - 正常</Key>
+	<Key Id="scr_rank_hard">排行榜 - 困难</Key>
+	<Key Id="scr_rank_pieklo">排行榜 - 地狱</Key>
+	<Key Id="scr_rankczasowy_opis">在不保存游戏情况下，最短时间内通关的玩家</Key>
+	
+</Languages>

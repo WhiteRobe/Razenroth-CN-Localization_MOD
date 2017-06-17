@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+
+<!--Eventy-->
+<Key Id="qu_zielaz_quest_nazwa">草药学家</Key>
+<Key Id="qu_zielaz_quest_opis_niewykonany">你好,陌生人.我正在寻找一种非常稀有的花. 我听说有人在这里的某个地方找到过它. 如果你碰巧找到了,就请摘3朵来给我. 我知道没有免费的午餐, 我会奖励你的.</Key>	
+<Key Id="qu_zielaz_quest_opis_wykonany">非常感谢你. 你都不知道我有多需要它. 这是给你的.</Key>
+
+<Key Id="qu_quest_1_nazwa">暗影人</Key>
+<Key Id="qu_quest_1t_opis_niewykonany">嘿,你快过来! 这些怪物在追我. 你必须帮帮我,我一定要待在这儿.如果你帮助我的话,我一定会给你值钱的报酬的,我保证.</Key>	
+<Key Id="qu_quest_1_opis_wykonany">我永远不会忘记这件事的,谢谢你的帮助.</Key>
+
+<Key Id="qu_quest_2_nazwa">生气的怪兽</Key>
+<Key Id="qu_quest_2_opis_niewykonany">这些恶心的生物杀了我村里的所有人. 只有我逃了出来. 在它们做出更多坏事前帮我消灭它们.</Key>	
+<Key Id="qu_quest_2_opis_wykonany">这些野兽终于遭到报应了. 拿着,你比我更需要它.</Key>
+
+<Key Id="qu_quest_3_nazwa">囚犯</Key>
+<Key Id="qu_quest_3_opis_niewykonany">呲, 这边. 别让守卫发现. 他就在这片儿晃,不让我从这里出来. 我打不过他,他太强大了,但是你可以.</Key>	
+<Key Id="qu_quest_3_opis_wykonany">太棒了! 你成功了! 我终于自由了,谢谢你! </Key>
+
+<Key Id="qu_quest_4_nazwa">鼹鼠</Key>
+<Key Id="qu_quest_4_opis_niewykonany">最近天气变得真的好冷. 如果再不暖和的话,我就不能好好走路了. 你能帮我砍点柴来吗? 我保证对你来说这事不会像对我来说这么困难的.</Key>	
+<Key Id="qu_quest_4_opis_wykonany">太棒了,这应该够烧一会儿了.谢谢你.</Key>
+
+<Key Id="qu_quest_5_nazwa">幽魂</Key>
+<Key Id="qu_quest_5_opis_niewykonany">有几颗流星最近几年掉落在这附近. 听说它们有将死人复生的力量. 不幸的是,我无法再靠近那些在这里游荡的巨大的怪物了,它们一定是在看守陨石. 如果你碰巧找到了几块陨石,你知道在哪里找我.</Key>	
+<Key Id="qu_quest_5_opis_wykonany">可恶...你成功了.这样我就得付你报酬了.</Key>
+
+<Key Id="qu_quest_6_nazwa">骷髅</Key>
+<Key Id="qu_quest_6_opis_niewykonany">喂,你,我遇到麻烦了,你能帮助我吗? 我需要一些能告诉我怎么去生命之泉的老地图. 不幸的是,那张地图旁边有强大的怪物守护. 我打不过他,你能做到吗? 当然了,我会给你报酬的.</Key>	
+<Key Id="qu_quest_6_opis_wykonany">这正是我想要的. 我真不知道你是怎么做到的,但我知道我得给你点奖赏. 拿去吧,我希望你能好好利用它.</Key>
+
+
+
+
+<!--Intra-->
+<Key Id="qu_intro_1_sc_1">最近,我每晚都会与噩梦作斗争.</Key>
+<Key Id="qu_intro_1_sc_2">自从我的祖父, 约瑟夫.卡特 消失了之后, 我就一直失眠.</Key>
+<Key Id="qu_intro_1_sc_3">在看了他的旧笔记之后,我发现了一个奇怪的名字 - 低语峡谷.</Key>
+<Key Id="qu_intro_1_sc_4">我对这附近很了解,但我从来没有听说过那个地方.</Key>
+<Key Id="qu_intro_1_sc_5">我有一种预感,那条线索值得追踪.</Key>
+<Key Id="qu_intro_1_sc_6">我在本地图书馆浏览了几百年前的地图.</Key>
+<Key Id="qu_intro_1_sc_7">我找到了我要找的低语峡谷.</Key>
+<Key Id="qu_intro_1_sc_8">没有别的选择,我决定马上出发.</Key>
+<Key Id="qu_intro_1_sc_9">在几个小时的旅程中,我尝试这拼凑已获得的线索来获得情报.</Key>
+<Key Id="qu_intro_1_sc_10">火车一停,我就开始用天黑前的时间来进行我的调查.</Key>
+<Key Id="qu_intro_1_sc_11">在黑暗森林里游荡了几个小时之后,我终于发现了一间老旧的木屋.</Key>
+<Key Id="qu_intro_1_sc_12">我希望如果祖父真的去了低语峡谷,我有可能在这里找到他.</Key>
+<Key Id="qu_intro_1_sc_13">我小心地走进了木屋,可惜祖父并不在这儿.</Key>
+<Key Id="qu_intro_1_sc_14">但是我注意到桌上有一张纸条.</Key>
+<Key Id="qu_intro_1_sc_15">我靠近桌子并点亮了一支蜡烛.</Key>
+<Key Id="qu_intro_1_sc_16">纸条上写着很短但是很清楚的信息:"快跑,查理斯!"</Key>
+<Key Id="qu_intro_1_sc_17">突然,外面刮起了狂风. 我跑到门边但是我打不开它.</Key>
+<Key Id="qu_intro_1_sc_18">从窗户看去外面的树都变成了很诡异的颜色,而且我能听到远处有不详的哭声.</Key>
+<Key Id="qu_intro_1_sc_19">我感到我体内有强大能量,但是我的手无法动弹.</Key>
+<Key Id="qu_intro_1_sc_20">我不记得接下来发生了什么,因为我马上昏了过去.</Key>
+
+<!--Outra-->
+<Key Id="qu_outro_1_sc_1">打败雷泽洛斯之后,我在小木屋的地板上醒来.这是一切开始的地方.</Key>
+<Key Id="qu_outro_1_sc_2">我的祖父说雷泽洛斯是古老传说中掌管梦魇的恶魔.</Key>
+<Key Id="qu_outro_1_sc_3">那座被毁灭的木屋其实是一个通往雷泽洛斯存在的次元的传送门. 不管是谁到了那里,就中了他的陷阱. </Key>
+<Key Id="qu_outro_1_sc_4">所以我们决定放火烧了那座木屋,并决定再也不回来.</Key>
+<Key Id="qu_outro_1_sc_5">祖父说世界上还有很多像这样的传送门陷阱.问题是其他人能不能像我们这样逃出来.</Key>
+
+
+</Languages>

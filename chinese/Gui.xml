@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+
+<!--Player die-->
+<Key Id="g_player_die_napis">你死了</Key>
+
+<!--Menu-->
+<Key Id="g_menu_new_game">开始游戏</Key>
+<Key Id="g_menu_options">选项</Key>
+<Key Id="g_menu_achievements">成就</Key>
+<Key Id="g_menu_intro">故事简介</Key>
+<Key Id="g_menu_credits">制作人员</Key>
+<Key Id="g_menu_quit">退出</Key>
+<Key Id="g_menu_back">返回</Key>
+<Key Id="g_menu_accept">确定</Key>
+<Key Id="g_stw_statystyki">游戏统计</Key>
+<Key Id="g_stw_graj">新的游戏</Key>
+
+<!--New Game-->
+<Key Id="g_new_game_easy">正常</Key>
+<Key Id="g_new_game_normal">困难</Key>
+<Key Id="g_new_game_hard">地狱</Key>
+
+<!--Options-->
+<Key Id="g_options_general">通用</Key>
+	<Key Id="g_options_general_language">语言</Key>
+	<Key Id="g_options_general_language_polish">波兰</Key>
+	<Key Id="g_options_general_language_english">英语</Key>
+	<Key Id="g_options_general_blood">击杀怪物时几率留下血迹</Key>
+	<Key Id="g_options_general_hpbars">显示怪物血量(需要重启游戏)</Key>
+	<Key Id="g_options_general_ukpocz">血迹会在一段时间后消失</Key>
+	<Key Id="g_options_general_kolorystyka">游戏明暗</Key>
+	<Key Id="g_options_general_jasny">明亮的</Key>
+	<Key Id="g_options_general_ciemna">黑暗的</Key>
+	<Key Id="g_options_general_mieszana">混合的</Key>
+	
+	<Key Id="g_options_general_weather">天气</Key>
+<Key Id="g_options_controls">控制</Key>
+	<Key Id="g_options_controls_press_key">按任意键</Key>
+	<Key Id="g_options_controls_up">上</Key>
+	<Key Id="g_options_controls_down">下</Key>
+	<Key Id="g_options_controls_left">左</Key>
+	<Key Id="g_options_controls_right">右</Key>
+	<Key Id="g_options_controls_main_spell">主法术</Key>
+	<Key Id="g_options_controls_mana_spell">魔法法术</Key>
+	<Key Id="g_options_controls_item">使用物品</Key>
+	<Key Id="g_options_controls_book">使用魔法书</Key>
+	
+	<Key Id="g_options_controls_talents">技能菜单</Key>
+	<Key Id="g_options_controls_statistic">游戏统计</Key>
+	
+	<Key Id="g_options_controls_alternatywne">控制 2</Key>
+	<Key Id="g_options_controls_podstawowe">控制 1</Key>
+	<Key Id="g_options_controls_anuluj">取消</Key>
+	<Key Id="g_options_controls_domyslne">默认</Key>
+	
+<Key Id="g_options_video">视频</Key>
+	<Key Id="g_options_video_resolution">分辨率</Key>
+	<Key Id="g_options_video_vsync">垂直同步</Key>
+	<Key Id="g_options_video_fullscreen">全屏</Key>
+	<Key Id="g_options_video_on">开启</Key>
+	<Key Id="g_options_video_off">关闭</Key>
+<Key Id="g_options_audio">声音</Key>
+	<Key Id="g_options_audio_music">音乐</Key>
+	<Key Id="g_options_audio_sounds">游戏声音</Key>
+	<Key Id="g_options_audio_ambience">环境音量</Key>
+	
+	<Key Id="g_options_lang_curlang">选择语言</Key>
+	<Key Id="g_options_lang_dostepne">可用的语言</Key>
+	
+	
+<!--Stats-->
+<Key Id="g_stats_talents">天赋</Key>
+	<Key Id="g_stats_talents_points">剩余点数</Key>
+	<Key Id="g_stats_talents_cost">需要点数</Key>	
+<Key Id="g_stats_level">等级</Key>
+	<Key Id="g_stats_level_points">剩余点数</Key>
+	
+	<Key Id="g_stats_wlasciwosci_itemu">信息:</Key>
+	<Key Id="g_stats_zdobyty_item">获得新物品</Key>
+	
+	
+	<Key Id="g_stats_level_hp">生命值</Key>
+	<Key Id="g_stats_level_mana">魔法值</Key>
+	<Key Id="g_stats_level_mana_steal">击中时魔法恢复</Key>
+	<Key Id="g_stats_level_crit">暴击伤害</Key>
+	<Key Id="g_stats_level_crit_chance">暴击几率</Key>
+	<Key Id="g_stats_level_redukcja_cd">魔法书冷却</Key>
+	<Key Id="g_stats_level_cd_pocisk_maly">普通攻击间隔</Key>
+	<Key Id="g_stats_level_dystans_pocisk_duzy">魔法攻击范围</Key>
+	<Key Id="g_stats_level_dystans_pocisk_maly">普通攻击范围</Key>
+	<Key Id="g_stats_level_koszt_energi_pduzy">魔法消耗</Key>
+	<Key Id="g_stats_level_szansa_naitemymagiczne">魔法物品几率</Key>
+	<Key Id="g_stats_level_szansanaitemzycia">治疗物品几率</Key>
+	<Key Id="g_stats_level_obrazeniapociskduzy">魔法伤害</Key>
+	<Key Id="g_stats_level_obrazeniapociskmaly">基础伤害</Key>
+	<Key Id="g_stats_level_armor">护甲</Key>
+	<Key Id="g_stats_level_redukcjakosztukupna">降低价格</Key>
+	<Key Id="g_stats_level_redukcjaobrazen">伤害减免</Key>
+	<Key Id="g_stats_level_redukcjaobrazenobszarowych">减少范围伤害</Key>
+	<Key Id="g_stats_level_regeneracjaenergi">法力回复</Key>
+	<Key Id="g_stats_level_szansanaunik">闪避几率</Key>
+	<Key Id="g_stats_level_szybkosc">速度</Key>
+	
+	<Key Id="g_stats_level_obrazenia">伤害</Key>
+	<Key Id="g_stats_level_kosztmany">魔法消耗</Key>
+	<Key Id="g_stats_level_zasieg">范围</Key>
+	<Key Id="g_stats_level_manaprzytrafieniu">魔法击中恢复</Key>
+	<Key Id="g_stats_level_pociskmalycd">冷却时间</Key>
+	<Key Id="g_stats_level_uzupelnieniezycia">生命恢复</Key>
+	<Key Id="g_stats_level_uzupelnieniemany">魔法恢复</Key>
+	<Key Id="g_stats_level_zloto">金钱</Key>
+	<Key Id="g_stats_level_klucze">钥匙</Key>
+	
+	<Key Id="g_stats_level_reset_przycisk">洗点</Key>
+	<Key Id="g_stats_level_ulepsz_talent">学习</Key>
+    <Key Id="g_stats_level_cd_mp">普通攻击冷却时间</Key>
+	<Key Id="g_stats_level_cd_ksiega">魔法书冷却时间</Key>
+	<Key Id="g_stats_level_koszt_pd">魔法消耗</Key>
+	
+	<Key Id="g_stats_level_reset_talentu">遗忘点数</Key>
+	<!--Okono statystyk kategorie-->
+	
+	<Key Id="g_stw_podstawowe">基础</Key>
+	<Key Id="g_stw_atak">攻击</Key>
+	<Key Id="g_stw_obrona">防御</Key>
+	<Key Id="g_stw_dodatkowe">额外的</Key>
+	
+<!--Map-->
+<Key Id="g_map">地图</Key>
+
+<!--NowyPoziom-->
+<Key Id="g_tol_new_level">升级</Key>
+
+<!--Ekran Wczytywania poziomu-->
+<Key Id="g_ekr_loading_level">载入中...</Key>
+
+<!--Shop-->
+<Key Id="g_shop">商店</Key>
+	<Key Id="g_shop_buy">购买</Key>
+	
+	<Key Id="g_sklep_domu_klucznik_tytul">钥匙台</Key>
+	<Key Id="g_sklep_domu_klucznik_opis">让你可以购买钥匙，打开箱子</Key>
+	<Key Id="g_sklep_domu_alchemik_tytul">炼金台</Key>
+	<Key Id="g_sklep_domu_alchemik_opis">让你可以购买各种药水</Key>
+	<Key Id="g_sklep_domu_kuchnia_tytul">柴炉</Key>
+	<Key Id="g_sklep_domu_kuchnia_opis">每过一关恢复所有血量</Key>
+	<Key Id="g_sklep_domu_piedestal_itemu_tytul">魔法台</Key>
+	<Key Id="g_sklep_domu_piedestal_itemu_opis">每开始一个新的游戏，会给你一个魔法物品</Key>
+	<Key Id="g_sklep_domu_totem_zycia_tytul">生命图腾</Key>
+	<Key Id="g_sklep_domu_totem_zycia_opis">增加50点最大生命值</Key>
+	<Key Id="g_sklep_domu_totem_many_tytul">魔法图腾</Key>
+	<Key Id="g_sklep_domu_totem_many_opis">增加50点最大魔法值</Key>
+	<Key Id="g_sklep_domu_kapliczka_bufow_tytul">神明的祝福</Key>
+	<Key Id="g_sklep_domu_kapliczka_bufow_opis">每90秒赋予你一个随机的Buff效果</Key>
+	<Key Id="g_sklep_domu_studia_zycia_tytul">生命之井</Key>
+	<Key Id="g_sklep_domu_studnia_zycia_opis">喝下井水，恢复满生命值，每关只能使用一次</Key>
+	
+<!--In_game_Menu-->
+<Key Id="g_ingame_menu_main">主菜单</Key>
+	<Key Id="g_ingame_menu_return">返回</Key>
+	
+	<!--Okno Nauczonego Achievementu-->
+<Key Id="g_achie_le_title">新成就解锁</Key>
+
+
+<!--Okno  Wymiany waluty-->
+<Key Id="g_wal_title">货币兑换</Key>
+<Key Id="g_wal_button">兑换</Key>
+
+<!--Okno  Wymiany waluty-->
+<Key Id="g_hazard_title">赌博</Key>
+<Key Id="g_hazard_button">购买</Key>
+
+<!--Merchant-->
+<Key Id="g_merchant">商人</Key>
+	
+	<!--Okno Portalu-->
+<Key Id="g_okno_portalu_tak">确定</Key>
+<Key Id="g_okno_portalu_nie">否</Key>
+<Key Id="g_okno_portalu_opis">你确定到一个关么?</Key>
+<Key Id="g_okno_portalu_opis_ostatni_poziom">你确定完成通关么?</Key>
+	
+	<!--NowaGra-->
+	<Key Id="g_ng_tooltip_lock_char">角色锁定</Key>
+	
+	<Key Id="g_ng_wym_dziadek">任意难度通关</Key>
+	<Key Id="g_ng_wym_szkielet">杀死1000名敌人</Key>
+	<Key Id="g_ng_wym_ogniomistrz">收集凤凰雕像或者找到凤凰祭坛</Key>
+	<Key Id="g_ng_wym_golem">困难或地狱模式通关</Key>
+	
+	<!--Okno statystyk achievementow-->
+	<Key Id="g_sta_czasy_gry">游戏时间统计</Key>
+	<Key Id="g_sta_calkowity_czas">总游戏时间</Key>
+	<Key Id="g_sta_czas_las">森林</Key>
+	<Key Id="g_sta_czas_podziemia">洞穴</Key>
+	<Key Id="g_sta_czas_bagna">沼泽</Key>
+	<Key Id="g_sta_czas_pustkowia">荒芜</Key>
+	<Key Id="g_sta_czas_cmentarz">墓地</Key>
+	
+	<Key Id="g_sta_czasy_gry_czarls">使用查尔斯游戏时间</Key>
+	<Key Id="g_sta_czasy_gry_ogniomistrz">使用火元素游戏时间</Key>
+	<Key Id="g_sta_czasy_gry_dziadek">使用爷爷游戏时间</Key>
+	<Key Id="g_sta_czasy_gry_szkielet">使用骷髅王游戏时间</Key>
+	<Key Id="g_sta_czasy_gry_golem">使用石傀儡游戏时间</Key>
+	
+	
+	<Key Id="g_sta_smierc">死亡</Key>
+	<Key Id="g_sta_smierc_ilosc">死亡次数</Key>
+	<Key Id="g_sta_smierc_czarls">查尔斯</Key>
+	<Key Id="g_sta_smierc_ognimistrz">火元素</Key>
+	<Key Id="g_sta_smierc_dziedek">爷爷</Key>
+	<Key Id="g_sta_smierc_szkielet">骷髅王</Key>
+	<Key Id="g_sta_smierc_golem">石傀儡</Key>
+	
+	
+	<Key Id="g_sta_smierc_las">森林死亡次数</Key>
+	<Key Id="g_sta_smierc_podziemia">洞穴死亡次数</Key>
+	<Key Id="g_sta_smierc_bagna">沼泽死亡次数</Key>
+	<Key Id="g_sta_smierc_pustkowia">荒芜死亡次数</Key>
+	<Key Id="g_sta_smierc_cmentarz">墓地死亡次数</Key>
+	
+	
+	<Key Id="g_sta_best">杀死怪物</Key>	
+	<Key Id="g_sta_best_kil_mon">杀死怪物总数</Key>
+	<Key Id="g_sta_best_kil_mini_bosowie">杀死小boss总数</Key>
+	<Key Id="g_sta_best_kil_bosowie">杀死boss总数</Key>
+	
+	<Key Id="g_sta_best_boss_evil_tree">恶魔树</Key>	
+	<Key Id="g_sta_best_boss_mud_monster">泥怪</Key>
+    <Key Id="g_sta_best_boss_goblin_sapper">哥布林之王</Key>
+    <Key Id="g_sta_best_boss_rognar">晶石怪</Key>
+	<Key Id="g_sta_best_boss_swamp_thing">沼泽怪</Key>
+	<Key Id="g_sta_best_boss_shaman">萨满</Key>
+	<Key Id="g_sta_best_boss_flameclaw">烈焰怪</Key>
+	<Key Id="g_sta_best_boss_wind_titan">风巨人</Key>
+    <Key Id="g_sta_best_boss_razenroth">噩梦</Key>
+
+    <Key Id="g_sta_inne">其他</Key>	
+	<Key Id="g_sta_inne_zloto">获得金币总数</Key>	
+	<Key Id="g_sta_inne_krysztaly">获得睡觉总数</Key>	
+	<Key Id="g_sta_inne_mikstury">药水使用总数</Key>
+	<Key Id="g_sta_inne_questy">完成任务总数</Key>	
+	<Key Id="g_sta_inne_sklep">购买物品总数</Key>	
+		
+
+
+	<!--texty dziadka-->
+	<Key Id="g_dziad_uwolnienie">查尔斯?真的是你吗? 很高兴再次见到你，我以为会在这里度过余生，我敢相信你打败了噩梦，不过现在不适合谈话，我们要快离开这里，噩梦不会忘记这耻辱的，快离开吧，我会解释这一切的</Key>
+    <Key Id="g_dziad_gra_czarls_1">做得好，我知道我可以依靠你，我们回家吧，低语之谷不是一个安全的地方</Key>
+	<Key Id="g_dziad_gra_ogniomistrz_1">感谢你的帮助，你必须非常强大才能打败噩梦，我以为它不惧怕火焰，但很显然，我错了</Key>
+	<Key Id="g_dziad_gra_ty_szkielet_1">我简直不敢相信是一个骷髅来就我，我想在这里问你一些关于死亡后的生活，我可以教你一些咒语，不过让我们先离开这鬼地方</Key>
+    <Key Id="g_dziad_gra_ty_dziedek_1">你是谁?你看起来和我一模一样，我更希望救我的是我孙子，现在我们离开这里吧，离开这里后，你要告诉我你是谁</Key>
+	<Key Id="g_dziad_gra_ty_golem_1">谢谢你的帮助，石傀儡，这些狡猾的恶魔得到了应用的惩罚，我以为我永远离不开这地方</Key>
+
+	
+	<!--patch 1.2-->
+	<Key Id="g_tooltip_checkpoint">游戏已保存</Key>
+	<Key Id="g_button_checpoint_load">载入游戏</Key>
+	
+	<Key Id="g_nowagra_to_chekp_tit">存储游戏</Key>
+	<Key Id="g_nowagra_to_chekp_opis_jest">每过一关，游戏会自动保存你的进度，如果你死了，存档会被删除</Key>
+	<Key Id="g_nowagra_to_chekp_opis_brak">没有存档</Key>
+	
+</Languages>

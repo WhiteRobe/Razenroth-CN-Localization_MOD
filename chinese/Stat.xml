@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+<!--Talents-->
+<Key Id="TalentHealer_name">神秘治疗</Key>
+	<Key Id="TalentHealer_description">增加血球回复率</Key>
+<Key Id="TalentMana_name">魔法大师</Key>
+	<Key Id="TalentMana_description">击中敌人后，有一定几率回复所有魔法值</Key>	
+<Key Id="TalentTarcza_name">神圣之盾</Key>
+	<Key Id="TalentTarcza_description">在生命值低于50%时候，有很高的几率减少下一次伤害</Key>
+<Key Id="TalentRozplatanie_name">战争狂怒</Key>
+	<Key Id="TalentRozplatanie_description">当你杀死一敌人，你有几率小幅度提升普通攻击伤害和法术伤害</Key>
+<Key Id="TalentWielokrotnyStrzal_name">多重攻击</Key>
+	<Key Id="TalentWielokrotnyStrzal_description">攻击时有几率分裂3个子弹</Key>
+<Key Id="TalentKontratak_name">反击</Key>
+	<Key Id="TalentKontratak_description">在收到伤害时，100%几率会对一敌人施法强大的法术</Key>
+<Key Id="TalentPrecyzja_name">精准攻击</Key>
+	<Key Id="TalentPrecyzja_description">攻击同一个怪物3次，增加下一次魔法攻击伤害</Key>
+<Key Id="TalentBerserker_name">狂战士</Key>
+	<Key Id="TalentBerserker_description">增加30%伤害，但被攻击时会受到20%的额外伤害</Key>
+<Key Id="TalentMadrosc_name">古代智慧</Key>
+	<Key Id="TalentMadrosc_description">当你收到伤害时，有几率可以重新使用魔法书</Key>
+<Key Id="TalentEvolution_name">进化</Key>
+	<Key Id="TalentEvolution_description">你能更快的使用魔法书</Key>
+<Key Id="CielesneZestrojenie_name">近身战斗</Key>
+	<Key Id="CielesneZestrojenie_description">当你在4米内击中怪物时，你的伤害会增加</Key>
+<Key Id="TalentZuchwalosc_name">无畏</Key>
+	<Key Id="TalentZuchwalosc_description">当你在5米外击中怪物时，你的伤害会增加</Key>	
+	
+	<!--Elementy-->
+	<Key Id="sta_studia_sily_nazwa">力量之井</Key>
+	<Key Id="sta_studia_sily_opis"></Key>
+	<Key Id="sta_statuafenixa_nazwa">凤凰祭坛</Key>
+	<Key Id="sta_statuafenixa_opis">允许你死后重生</Key>
+	<Key Id="sta_kopalnia_zlota_nazwa">土豪</Key>
+	<Key Id="sta_kopalnia_zlota_opis">获得金钱+1</Key>
+	<Key Id="sta_olt_bz_nazwa">暴风祭坛</Key>
+	<Key Id="sta_olt_bz_opis">有机会使用闪电箭攻击敌人</Key>
+	<Key Id="sta_olt_lodu_nazwa">寒冰祭坛</Key>
+	<Key Id="sta_olt_lodu_opis">有几率冻结敌人</Key>
+	<Key Id="sta_olt_ognia_nazwa">火焰祭坛</Key>
+	<Key Id="sta_olt_ognia_opis">你的法术能点燃地面</Key>
+	
+	
+	<!--Achievementy-->
+	<Key Id="sta_achi_przejdz_gre_nazwa">完成游戏</Key>
+	<Key Id="sta_achi_przejdz_gre_opis">任何难度下完成游戏</Key>
+	<Key Id="sta_achi_przejdz_gre_koszmar_nazwa">硬汉</Key>
+	<Key Id="sta_achi_przejdz_gre_koszmar_opis">困难难度下完成游戏</Key>
+	<Key Id="sta_achi_przejdz_gre_pieklo_nazwa">人间地狱</Key>
+	<Key Id="sta_achi_przejdz_gre_pieklo_opis">地狱难度下完成游戏</Key>
+	<Key Id="sta_achi_100_potw_nazwa">勇士</Key>
+	<Key Id="sta_achi_100_potw_opis">杀死100个怪物</Key>
+	<Key Id="sta_achi_500_potw_nazwa">野蛮人</Key>
+	<Key Id="sta_achi_500_potw_opis">杀死500个怪物</Key>
+	<Key Id="sta_achi_1000_potw_nazwa">狂战士</Key>
+	<Key Id="sta_achi_1000_potw_opis">杀死1000个怪物</Key>
+	
+	<Key Id="sta_achi_5_mb_nazwa">勇敢</Key>
+	<Key Id="sta_achi_5_mb_opis">杀死5个小boss</Key>
+	<Key Id="sta_achi_20_mb_nazwa">万夫莫敌</Key>
+	<Key Id="sta_achi_20_mb_opis">杀死20个小boss</Key>
+	
+	<Key Id="sta_achi_dom_1_nazwa">巧匠</Key>
+	<Key Id="sta_achi_dom_1_opis">为你小屋购买一样物品</Key>
+	<Key Id="sta_achi_dom_max_nazwa">庄园</Key>
+	<Key Id="sta_achi_dom_max_opis">为小屋购买所有物品</Key>
+	
+	<Key Id="sta_achi_mixtury_nazwa">炼金术</Key>
+	<Key Id="sta_achi_mixtury_opis">喝50瓶药水</Key>
+	<Key Id="sta_achi_5_quest_nazwa">冒险者</Key>
+	<Key Id="sta_achi_5_quest_opis">完成5个任务</Key>
+	<Key Id="sta_fenix_altar_quest_nazwa">火凤</Key>
+	<Key Id="sta_fenix_altar_quest_opis">找到火凤祭坛</Key>
+	<Key Id="sta_jablko_nazwa">亚当</Key>
+	<Key Id="sta_ablko_opis">找到金苹果</Key>
+	<Key Id="sta_kup_przed_nazwa">顾客</Key>
+	<Key Id="sta_kup_przed_opis">商人那购买一样物品</Key>
+	
+	<Key Id="sta_postac_szkielet_nazwa">骷髅</Key>
+	<Key Id="sta_postac_szkielet_opis">解锁骷髅</Key>
+	<Key Id="sta_postac_ogniomistrz_nazwa">火元素</Key>
+	<Key Id="sta_postac_ogniomistrz_opis">解锁火元素</Key>
+	<Key Id="sta_postac_dziadek_nazwa">爷爷</Key>
+	<Key Id="sta_postac_dziadek_opis">解锁爷爷</Key>
+	<Key Id="sta_postac_golem_nazwa">傀儡</Key>
+	<Key Id="sta_postac_golem_opis">解锁傀儡</Key>
+	
+	<Key Id="sta_achi_bt_s_nazwa">泥怪</Key>
+	<Key Id="sta_achi_bt_s_opis">杀死泥怪</Key>
+	<Key Id="sta_achi_razen_s_nazwa">噩梦</Key>
+	<Key Id="sta_achi_razen_s_opis">杀死噩梦</Key>
+	<Key Id="sta_achi_wiatrak_s_nazwa">风巨人</Key>
+	<Key Id="sta_achi_wiatrak_s_opis">杀死风巨人</Key>
+	<Key Id="sta_achi_armagedon_s_nazwa">烈焰怪</Key>
+	<Key Id="sta_achi_armagedon_s_opis">杀死烈焰怪</Key>
+	<Key Id="sta_achi_kamgol_s_nazwa">晶石怪</Key>
+	<Key Id="sta_achi_kamgol_s_opis">杀死晶石怪</Key>
+	<Key Id="sta_achi_wybuch_s_nazwa">哥布林之王</Key>
+	<Key Id="sta_achi_wybuch_s_opis">杀死哥布林之王</Key>
+	<Key Id="sta_achi_bombel_s_nazwa">沼泽怪</Key>
+	<Key Id="sta_achi_bombel_s_opis">杀死沼泽怪</Key>
+	<Key Id="sta_achi_jajko_s_nazwa">萨满</Key>
+	<Key Id="sta_achi_jajko_s_opis">杀死萨满</Key>
+	<Key Id="sta_achi_drzewo_s_nazwa">恶魔树</Key>
+	<Key Id="sta_achi_drzewo_s_opis">杀死恶魔树</Key>
+	
+
+	<!--patch_1.2-->
+	<Key Id="sta_tal_mana_s_tit">魔法护盾</Key>
+	<Key Id="sta_tal_mana_s_desc">当你收到伤害时，会抵消些伤害，每1点伤害，消耗5点魔法值</Key>
+	
+	<Key Id="sta_tal_pociskor_tit">冰巫师</Key>
+	<Key Id="sta_tal_pociskor_desc">当你攻击或使用魔法攻击时，有几率冰冻敌人</Key>
+	
+	<Key Id="sta_tal_pijak_tit">无尽药水</Key>
+	<Key Id="sta_tal_pijak_desc">很高几率能再次使用药水</Key>
+	
+	<Key Id="sta_tal_rozprysk_tit">法术爆炸</Key>
+	<Key Id="sta_tal_rozprysk_desc">当你使用魔法攻击有几率会让魔法分裂出多个子弹</Key>
+	
+	<Key Id="sta_tal_smierdziuch_tit">讨厌鬼</Key>
+	<Key Id="sta_tal_smierdziuch_desc">你行走时施法出毒气</Key>
+	
+	<Key Id="sta_tal_anichilator_tit">毁灭者</Key>
+	<Key Id="sta_tal_anichilator_desc">对被冰冻和恐惧的敌人造成额外伤害</Key>
+	
+	<Key Id="sta_tal_pozoga_tit">火烧脚</Key>
+	<Key Id="sta_tal_pozoga_desc">当你施法魔法攻击，有几率持续烧伤敌人</Key>
+	
+	<Key Id="sta_tal_ochrona_tit">额外防御</Key>
+	<Key Id="sta_tal_ochrona_desc">当你在15秒内未受到伤害，下一次受到的伤害会减小</Key>
+	
+	
+</Languages>
